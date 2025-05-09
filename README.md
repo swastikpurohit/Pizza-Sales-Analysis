@@ -53,7 +53,7 @@ Based on the business needs
 
 ## 7️⃣ Dashboard Image
 
-![Pizza Sales Dashboard Preview](screenshots/dashboard1.png)
+![Pizza Sales Dashboard Preview](-)
 
 ---
 
@@ -66,9 +66,9 @@ Based on the business needs
 ---
 
 ## 9️⃣ Connect with Me
-- 🔗 [LinkedIn](www.linkedin.com/in/swastik-purohit-0a1477251)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swastik-purohit-0a1477251/)  
 - 🐱 [GitHub](https://github.com/swastikpurohit)  
-- 📧 Email: swastikp107@gmail.com  
+- 📧 Email: swastikp107@gmail.com 
 
 ---
 
