@@ -53,7 +53,7 @@ Based on the business needs
 
 ## 7️⃣ Dashboard Image
 
-![Pizza Sales Dashboard Preview](-)
+![Pizza Sales Dashboard Preview](Dashboard_image.png)
 
 ---
 
